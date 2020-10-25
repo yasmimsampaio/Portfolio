@@ -15,6 +15,13 @@
      color:turquoise;
      font-family: 'Times New Roman', Times, serif;
      font-weight: bold;
+     margin-left: 2%;
+     margin-top: 2%;
+ }
+
+ hr{
+     margin-left: 2%;
+     margin-right: 2%;
  }
 
  .navbar-brand{
@@ -25,8 +32,12 @@
  }
 
 form{
-    margin-right: 60px;
-    margin-top: 60px;
-    margin-left: 60px;
-    margin-bottom: 60px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
 } 
+
+button{
+    background-color: turquoise;
+}
