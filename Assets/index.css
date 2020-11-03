@@ -1,3 +1,7 @@
+body {
+    background-image: url("beach-2179624.jpg")
+}
+
 .navlinks-right{
     color: pink;
     margin-left: 50%;
@@ -5,6 +9,8 @@
 
 .box{
     border: black 1px solid;
+    background-color: white;
+    /* background-image: url("beach-2179624.jpg"); */
     margin-right: 100px;
     margin-top: 100px;
     margin-left: 100px;
@@ -14,11 +20,12 @@
  #myimage {
     width:200px;
     height:200px;
-    background:turquoise;
     left:10px;
     top:100px;
     margin-left: 2%;
     margin-right: 2%;
+    float: left;
+    margin: 5px;
   } 
 
  h1{
@@ -34,8 +41,8 @@
     margin-right: 2%;
 }
 
- text{
-     text-align: wrap;
+ p{
+     text-align: justify;
      margin-left: 2%;
      margin-right: 2%;
  }
@@ -47,4 +54,3 @@
      color: white;
  }
 
- 
