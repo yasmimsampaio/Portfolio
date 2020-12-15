@@ -1,5 +1,7 @@
 body {
-    background-image: url("beach-2179624.jpg")
+    background-image: url("beach-2179624.jpg");
+    background-repeat: no-repeat;
+    background-size: 1800px;
 }
 
 .navlinks-right{
